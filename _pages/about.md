@@ -63,16 +63,16 @@ ZIB-Report-21-16, 2020 <a href="https://www.sciencedirect.com/science/article/pi
 - 2021.7 - 2024.6 : Machine learning engineer and full-stack engineer at Neural Group Inc.
 - 2020.10 - 2021.6: Research internship at Yahoo Japan Corp.
 - 2020.8 - 2021.6 : Super research assistant at Kyushu University
-- 2020.4 - 2020.7 : Part-time researcher (DC共同研究員) at Kyushu University
+- 2020.4 - 2020.7 : Part-time researcher at Kyushu University
 
 ## Education
 - 2025.3 : Ph.D. (Functional Mathematics); Graduate School of Mathematics, Kyushu University
-- 2020.3 : Master (Mathemaics); Graduate School of Mathematics, Kyushu University
+- 2020.3 : Master (Mathematics); Graduate School of Mathematics, Kyushu University
 - 2018.3 : Bachelor (Science); School of Science, Kyushu University
 
 ## Awards
 - 九州大学学生表彰（学術研究活動表彰）, 令和元年度春季学位記授与式, 九州大学, 2020/3/23
-- ベストポスター賞, "Practical End-to-End Repositioning Algorithm for Managing Bike-Sharing Service", 日本数学会　異分野・異業種研究交流会2019, 東京大学駒場キャンパス, 2019/10/26/
+- ベストポスター賞, "Practical End-to-End Repositioning Algorithm for Managing Bike-Sharing Service", 日本数学会　異分野・異業種研究交流会2019, 東京大学駒場キャンパス, 2019/10/26
 - ポスターセッション優秀賞, "潜在的ユーザクラスタリングによるWebサイトの評価指標の提案", 九大-理研-福岡市 三者連携シンポジウム「数理・AIが解く未来～計算科学の展望と期待～」, 九州大学伊都キャンパスI2CNERホール, 2018/5/15
 
 ## Patent
