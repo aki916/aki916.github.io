@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Akihiro Yoshida is a research staff at Institute of Science Tokyo.
+Akihiro Yoshida is a researcher at Institute of Science Tokyo.
 He received a Ph.D. in Functional Mathematics from Kyushu University in 2025.
 His research interests includes the intersection of mathematical optimization and machine learning.
 
@@ -57,7 +57,7 @@ Keiichiro Yamamura, Toru Mitsutake, Hiroki Ishikura, Daiki Kusuhara, Akihiro Yos
 ZIB-Report-21-16, 2020 <a href="https://www.sciencedirect.com/science/article/pii/S2405896318324996" style="text-decoration:none">[paper]</a>
 
 ## Experience
-- 2025.4 - Current : Research staff at Institute of Science Tokyo
+- 2025.4 - Current : Researcher at Institute of Science Tokyo
 - 2024.9 - 2025.2 : Research assistant at Institute of Science Tokyo
 - 2024.6 - 2024.7 : Super research assistant at Kyushu University
 - 2021.7 - 2024.6 : Machine learning engineer and full-stack engineer at Neural Group Inc.
@@ -86,10 +86,10 @@ ZIB-Report-21-16, 2020 <a href="https://www.sciencedirect.com/science/article/pi
 ## Presentation
 - <b>Demand Forecasting of the Daily Usage of Liquefied Petroleum Gas with an Imbalance in Data Acquisition Frequency</b>, The 5th ZIB-RIKEN-IMI-ISM MODAL Workshop on Optimization, Data Analysis and HPC in AI, 2021.
 - <b>Long-Term Optimal Delivery Planning for Replacing the Liquefied Petroleum Gas Cylinder</b>,　The 5th ZIB-RIKEN-IMI-ISM MODAL Workshop on Optimization, Data Analysis and HPC in AI, 2021.
-- <b>Practical End-to-End Repositioning Algorithm for Managing Bike-Sharing Service</b>, 日本数学会　異分野・異業種研究交流会2019 (ポスターセッション)
-- <b>Demand Prediction and Repositioning Problem for Bike-Sharing System</b>, The 4th ISM-ZIB-IMI MODAL Workshop on Mathematical Optimization and Data Analysis, 2019
-- <b>New Performance Index “Attractiveness Factor” for Evaluating Website via Obtaining Transition of Users’ Interests</b>, 日本数学会　異分野・異業種研究交流会2018 (ポスターセッション)
-- <b>New Performance Index “Attractiveness Factor” for Evaluating Website via Obtaining Transition of Users’ Interests as Network Flow</b>, The 3rd IMI-ISM-ZIB MODAL Workshop on Challenges in Real World Data Analytics and High-Performance Optimization, National Graduate Institute for Policy Studies, 2018
+- <b>Practical End-to-End Repositioning Algorithm for Managing Bike-Sharing Service</b>, 日本数学会　異分野・異業種研究交流会2019, 2019年 (ポスターセッション)
+- <b>Demand Prediction and Repositioning Problem for Bike-Sharing System</b>, The 4th ISM-ZIB-IMI MODAL Workshop on Mathematical Optimization and Data Analysis, 2019年
+- <b>New Performance Index "Attractiveness Factor" for Evaluating Website via Obtaining Transition of Users’ Interests</b>, 日本数学会　異分野・異業種研究交流会2018 (ポスターセッション)
+- <b>New Performance Index "Attractiveness Factor" for Evaluating Website via Obtaining Transition of Users’ Interests as Network Flow</b>, The 3rd IMI-ISM-ZIB MODAL Workshop on Challenges in Real World Data Analytics and High-Performance Optimization, National Graduate Institute for Policy Studies, 2018年
 - <b>潜在的ユーザクラスタリングによるWebサイトの評価指標の提案</b>, 九大-理研-福岡市 三者連携シンポジウム「数理・AIが解く未来～計算科学の展望と期待～」, 九州大学伊都キャンパスI2CNERホール, 2018年 (ポスターセッション)
 - <b>Webアクセスデータを用いた潜在的ユーザクラスタリングによるWebサイトの評価指標の提案</b>, ものづくり企業に役立つ応用数理手法の研究会 第23回技術セミナー, JR博多シティ, 2018年
 
@@ -97,6 +97,6 @@ ZIB-Report-21-16, 2020 <a href="https://www.sciencedirect.com/science/article/pi
 - reviewer : AISTATS2025, NeurIPS2024, Information Sciences
 
 ## Media
-- <b>ECS, Lambda を組合せた類似商品検索及びリアルタイム在庫検索システムのご紹介</b>, アップデート紹介とちょっぴり DiveDeep する AWS の時間 第二十三回, 2022/11/9<a href="https://aws.amazon.com/jp/blogs/news/update-divedeep-series-23/" style="text-decoration:none">[link]</a>
-- <b>数理モデルが明らかにする情報と人々の動き</b>, 九大理学部ニュース, 2021/5/20<a href="https://www.sci.kyushu-u.ac.jp/koho/qrinews/qrinews_210520.html" style="text-decoration:none">[link]</a>
-- <b>機械学習もいいけど、数学的アプローチも必要だ | CCSE2019 イベントレポート</b>, 2019/8/22 <a href="https://ainow.ai/2019/08/22/174863/" style="text-decoration:none">[link]</a>
+- <b>ECS, Lambda を組合せた類似商品検索及びリアルタイム在庫検索システムのご紹介</b>, アップデート紹介とちょっぴり DiveDeep する AWS の時間 第二十三回, 2022/11/9<a href="https://aws.amazon.com/jp/blogs/news/update-divedeep-series-23/" style="text-decoration:none"> [link]</a>
+- <b>数理モデルが明らかにする情報と人々の動き</b>, 九大理学部ニュース, 2021/5/20<a href="https://www.sci.kyushu-u.ac.jp/koho/qrinews/qrinews_210520.html" style="text-decoration:none"> [link]</a>
+- <b>機械学習もいいけど、数学的アプローチも必要だ | CCSE2019 イベントレポート</b>, 2019/8/22 <a href="https://ainow.ai/2019/08/22/174863/" style="text-decoration:none"> [link]</a>
