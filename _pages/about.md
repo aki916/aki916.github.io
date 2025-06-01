@@ -18,6 +18,7 @@ His research interests includes the intersection of mathematical optimization an
 ## Publication
 
 ### Journal
+- <b>Optimization of transporting time through load shuffling in automated storage and retrieval system and evaluation via demonstration experiments</b>,<br>Hiroki Ishikura, Makoto Tsukamoto, Shingo Egi, Keiichiro Yamamura, Yoshihiko Fujisawa, <u>Akihiro Yoshida</u>, Hiroyuki Koshiro and Katsuki Fujisawa <br>Japan Journal of Industrial and Applied Mathematics, 2025 <a href="https://link.springer.com/article/10.1007/s13160-025-00701-w" style="text-decoration:none">[paper]</a><br> 
 - <b>Comprehensive and practical optimal delivery planning system for replacing liquefied petroleum gas cylinders</b>,<br><u>Akihiro Yoshida</u>, Haruki Sato, Shiori Uchiumi, Nariaki Tateiwa, Daisuke Kataoka, Akira Tanaka, Nozomi Hata, Yousuke Yatsushiro, Ayano Ide, Hiroki Ishikura, Shingo Egi, Miyu Fuji, Hiroki Kai and Katsuki Fujisawa <br>Japan Journal of Industrial and Applied Mathematics, 2024 <a href="https://link.springer.com/article/10.1007/s13160-024-00664-4" style="text-decoration:none">[paper]</a><br> 
 - <b>Offline map matching using time-expanded graph for low-frequency data</b>,<br>Akira Tanaka, Nariaki Tateiwa, Nozomi Hata, <u>Akihiro Yoshida</u>, Takashi Wakamatsu, Shota Osafune and Katsuki Fujisawa<br>Transportation Research Part C: Emerging Technologies, 2021 <a href="https://www.sciencedirect.com/science/article/pii/S0968090X21002771" style="text-decoration:none">[paper]</a>
 - <b>New Performance Index "Attractiveness Factor" for Evaluating Websites via Obtaining Transition of Users’ Interests</b>,
@@ -51,7 +52,7 @@ The 5th IFAC Conference on Engine and Powertrain Control, Simulation and Modelin
 
 ## Preprint
 - <b>Enhancing Quantum-ready QUBO-based Suppression for Object Detection with Appearance and Confidence Features</b><br>
-Keiichiro Yamamura, Toru Mitsutake, Hiroki Ishikura, Daiki Kusuhara, Akihiro Yoshida, Katsuki Fujisawa<br>
+Keiichiro Yamamura, Toru Mitsutake, Hiroki Ishikura, Daiki Kusuhara, Akihiro Yoshida, Katsuki Fujisawa<br>2025
 <a href="https://arxiv.org/abs/2502.02895" style="text-decoration:none">[paper]</a>
 - <b>CMAP-LAP: Configurable Massively Parallel Solver for Lattice Problems</b><br>Nariaki Tateiwa, Yuji Shinano, Keiichiro Yamamura, Akihiro Yoshida, Shizuo Kaji, Masaya Yasuda, Katsuki Fujisawa<br>
 ZIB-Report-21-16, 2020 <a href="https://www.sciencedirect.com/science/article/pii/S2405896318324996" style="text-decoration:none">[paper]</a>
