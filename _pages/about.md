@@ -18,6 +18,7 @@ His research interests includes the intersection of mathematical optimization an
 ## Publication
 
 ### Journal
+- <b>Automated Tabu Tenure Tuning by Trajectory Metrics for Quadratic Unconstrained Binary Optimization </b>,<br>Masahiko Sugimura, Keiichiro Yamamura, Hiroki Ishikura, <u>Akihiro Yoshida</u>, Ken Kawano, Matthieu Parizy, Katsuki Fujisawa <br>Journal of Heuristics, 2026 <a href="https://link.springer.com/article/10.1007/s10732-025-09576-z" style="text-decoration:none">[paper]</a><br> 
 - <b>Optimization of transporting time through load shuffling in automated storage and retrieval system and evaluation via demonstration experiments</b>,<br>Hiroki Ishikura, Makoto Tsukamoto, Shingo Egi, Keiichiro Yamamura, Yoshihiko Fujisawa, <u>Akihiro Yoshida</u>, Hiroyuki Koshiro and Katsuki Fujisawa <br>Japan Journal of Industrial and Applied Mathematics, 2025 <a href="https://link.springer.com/article/10.1007/s13160-025-00701-w" style="text-decoration:none">[paper]</a><br> 
 - <b>Comprehensive and practical optimal delivery planning system for replacing liquefied petroleum gas cylinders</b>,<br><u>Akihiro Yoshida</u>, Haruki Sato, Shiori Uchiumi, Nariaki Tateiwa, Daisuke Kataoka, Akira Tanaka, Nozomi Hata, Yousuke Yatsushiro, Ayano Ide, Hiroki Ishikura, Shingo Egi, Miyu Fuji, Hiroki Kai and Katsuki Fujisawa <br>Japan Journal of Industrial and Applied Mathematics, 2024 <a href="https://link.springer.com/article/10.1007/s13160-024-00664-4" style="text-decoration:none">[paper]</a><br> 
 - <b>Offline map matching using time-expanded graph for low-frequency data</b>,<br>Akira Tanaka, Nariaki Tateiwa, Nozomi Hata, <u>Akihiro Yoshida</u>, Takashi Wakamatsu, Shota Osafune and Katsuki Fujisawa<br>Transportation Research Part C: Emerging Technologies, 2021 <a href="https://www.sciencedirect.com/science/article/pii/S0968090X21002771" style="text-decoration:none">[paper]</a>
@@ -26,6 +27,16 @@ His research interests includes the intersection of mathematical optimization an
 <br>Data Science and Engineering, 2019 <a href="https://link.springer.com/article/10.1007/s41019-019-00112-1" style="text-decoration:none">[paper]</a>
 
 ### International conference
+- <b> QUBO-Based Subset Selection for Efficient Fine-Tuning of Vision‒Language Models</b>,
+<br>
+<u>Akihiro Yoshida</u>, Keiichiro Yamamura, Hiroki Ishikura, Shinjiro Hirai, Ken Kawano, Yoshihiko Fujisawa, Katsuki Fujisawa
+<br>
+2nd International Workshop on Quantum Computing and Artificial Intelligence (QC+AI 2026) at the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), 2026
+- <b> Localization-Confidence-Aware Pseudo-Label Selection for YOLO-based Semi-Supervised Object Detection</b>,
+<br>
+Ken Kawano, Keiichiro Yamamura, <u>Akihiro Yoshida</u>, Hiroki Ishikura, Shinjiro Hirai, Yoshihiko Fujisawa, Katsuki Fujisawa
+<br>
+Artificial Intelligence with Biased or Scarce Data (AIBSD), In Conjunction with the 40th AAAI Conference on Artificial Intelligence 2026, 2026
 - <b> CMAP-LAP: Configurable Massively Parallel Solver for Lattice Problems</b>,
 <br>
 Nariaki Tateiwa, Yuji Shinano, Keiichiro Yamamura, Akihiro Yoshida, Shizuo Kaji, Masaya Yasuda, and Katsuki Fujisawa
@@ -72,9 +83,13 @@ ZIB-Report-21-16, 2020 <a href="https://www.sciencedirect.com/science/article/pi
 - 2018.3 : Bachelor (Science); School of Science, Kyushu University
 
 ## Awards
+- Top Reviewer of NeurIPS 2025
 - 九州大学学生表彰（学術研究活動表彰）, 令和元年度春季学位記授与式, 九州大学, 2020/3/23
 - ベストポスター賞, "Practical End-to-End Repositioning Algorithm for Managing Bike-Sharing Service", 日本数学会　異分野・異業種研究交流会2019, 東京大学駒場キャンパス, 2019/10/26
 - ポスターセッション優秀賞, "潜在的ユーザクラスタリングによるWebサイトの評価指標の提案", 九大-理研-福岡市 三者連携シンポジウム「数理・AIが解く未来～計算科学の展望と期待～」, 九州大学伊都キャンパスI2CNERホール, 2018/5/15
+
+## Grants
+- Tobitate! (Leap for Tomorrow) Study Abroad Initiative, MEXT (Japan)
 
 ## Patent
 - 清水慎太郎、山村真規、吉原千尋、劉栩青、吉野碧、山崎保範、石田淳、藤澤克樹、片岡大翼、<u>吉田明広</u>、佐藤開、田中智、内海志織、秦希望、立岩斉明、石倉弘貴、八代洋輔、井手綾乃, "情報処理装置、情報処理装置の制御方法、情報処理装置の制御プログラム、及び配送システム", 特許第7437358号, 特願2021-136392, 特開2023-030962, 出願日：2021年8月24日, 登録日：2023年3月8日
@@ -95,7 +110,7 @@ ZIB-Report-21-16, 2020 <a href="https://www.sciencedirect.com/science/article/pi
 - <b>Webアクセスデータを用いた潜在的ユーザクラスタリングによるWebサイトの評価指標の提案</b>, ものづくり企業に役立つ応用数理手法の研究会 第23回技術セミナー, JR博多シティ, 2018年
 
 ## Academic service
-- reviewer : AISTATS2025, NeurIPS2024, Information Sciences
+- reviewer : AISTATS2025, NeurIPS2024-2025, Information Sciences
 
 ## Media
 - <b>ECS, Lambda を組合せた類似商品検索及びリアルタイム在庫検索システムのご紹介</b>, アップデート紹介とちょっぴり DiveDeep する AWS の時間 第二十三回, 2022/11/9<a href="https://aws.amazon.com/jp/blogs/news/update-divedeep-series-23/" style="text-decoration:none"> [link]</a>
