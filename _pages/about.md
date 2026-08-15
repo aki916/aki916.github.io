@@ -7,17 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Akihiro Yoshida is a researcher at Institute of Science Tokyo.
-He received a Ph.D. in Functional Mathematics from Kyushu University in 2025.
-His research interests includes the intersection of mathematical optimization and machine learning.
+Akihiro Yoshida is a Senior Researcher at Fujitsu Limited and a Visiting Assistant Professor at the Institute of Science Tokyo.
+He received his Ph.D. in Functional Mathematics from Kyushu University in 2025.
+His research interests lie at the intersection of mathematical optimization and machine learning.
+Recently, he has been working on mixed-precision quantization for large language models (LLMs) and is one of the maintainers of the open-source LLM compression framework, OneCompression <a href="https://github.com/FujitsuResearch/OneCompression" style="text-decoration:none">[link]</a>.
 
 ## Research interets
 - Combinatorial Optimization
 - Machine Learning
+- Quantization
 
 ## Publication
 
 ### Journal
+- <b>Integrating learning-based and TSP solvers for the cylinder replacement problem</b>, <br>Akihiro Yoshida, Nozomi Hata, Keiichiro Yamamura, Hiroki Ishikura & Katsuki Fujisawa <br> Japan Journal of Industrial and Applied Mathematics, 2026 <a href="https://link.springer.com/article/10.1007/s13160-026-00796-9">[paper]</a><br> 
 - <b>Automated Tabu Tenure Tuning by Trajectory Metrics for Quadratic Unconstrained Binary Optimization </b>,<br>Masahiko Sugimura, Keiichiro Yamamura, Hiroki Ishikura, <u>Akihiro Yoshida</u>, Ken Kawano, Matthieu Parizy, Katsuki Fujisawa <br>Journal of Heuristics, 2026 <a href="https://link.springer.com/article/10.1007/s10732-025-09576-z" style="text-decoration:none">[paper]</a><br> 
 - <b>Optimization of transporting time through load shuffling in automated storage and retrieval system and evaluation via demonstration experiments</b>,<br>Hiroki Ishikura, Makoto Tsukamoto, Shingo Egi, Keiichiro Yamamura, Yoshihiko Fujisawa, <u>Akihiro Yoshida</u>, Hiroyuki Koshiro and Katsuki Fujisawa <br>Japan Journal of Industrial and Applied Mathematics, 2025 <a href="https://link.springer.com/article/10.1007/s13160-025-00701-w" style="text-decoration:none">[paper]</a><br> 
 - <b>Comprehensive and practical optimal delivery planning system for replacing liquefied petroleum gas cylinders</b>,<br><u>Akihiro Yoshida</u>, Haruki Sato, Shiori Uchiumi, Nariaki Tateiwa, Daisuke Kataoka, Akira Tanaka, Nozomi Hata, Yousuke Yatsushiro, Ayano Ide, Hiroki Ishikura, Shingo Egi, Miyu Fuji, Hiroki Kai and Katsuki Fujisawa <br>Japan Journal of Industrial and Applied Mathematics, 2024 <a href="https://link.springer.com/article/10.1007/s13160-024-00664-4" style="text-decoration:none">[paper]</a><br> 
@@ -31,7 +34,7 @@ His research interests includes the intersection of mathematical optimization an
 <br>
 <u>Akihiro Yoshida</u>, Keiichiro Yamamura, Hiroki Ishikura, Shinjiro Hirai, Ken Kawano, Yoshihiko Fujisawa, Katsuki Fujisawa
 <br>
-2nd International Workshop on Quantum Computing and Artificial Intelligence (QC+AI 2026) at the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), 2026
+2nd International Workshop on Quantum Computing and Artificial Intelligence (QC+AI 2026) at the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), 2026 <a href="https://link.springer.com/chapter/10.1007/978-3-032-17625-7_1" style="text-decoration:none">[paper]</a>
 - <b> Localization-Confidence-Aware Pseudo-Label Selection for YOLO-based Semi-Supervised Object Detection</b>,
 <br>
 Ken Kawano, Keiichiro Yamamura, <u>Akihiro Yoshida</u>, Hiroki Ishikura, Shinjiro Hirai, Yoshihiko Fujisawa, Katsuki Fujisawa
@@ -62,6 +65,7 @@ Nariaki Tateiwa, Nozomi Hata, Akira Tanaka, Akihiro Yoshida, Takashi Wakamatsu, 
 The 5th IFAC Conference on Engine and Powertrain Control, Simulation and Modeling, 2018 <a href="https://www.sciencedirect.com/science/article/pii/S2405896318324996" style="text-decoration:none">[paper]</a>
 
 ## Preprint
+- <b>OneComp: One-Line Revolution for Generative AI Model Compression</b><br>Yuma Ichikawa, Keiji Kimura, <u>Akihiro Yoshida</u>, Yudai Fujimoto, Hiroki Tokura, Yamato Arai, Yoshiyuki Ishii, Yusei Kawakami, Genki Shikada, Achille Jacquemond, Yoshihiko Fujisawa, Katsuki Fujisawa, Takumi Honda, Akira Sakai<br>2026<a href="https://arxiv.org/abs/2603.28845" style="text-decoration:none">[paper]</a>
 - <b>Enhancing Quantum-ready QUBO-based Suppression for Object Detection with Appearance and Confidence Features</b><br>
 Keiichiro Yamamura, Toru Mitsutake, Hiroki Ishikura, Daiki Kusuhara, Akihiro Yoshida, Katsuki Fujisawa<br>2025
 <a href="https://arxiv.org/abs/2502.02895" style="text-decoration:none">[paper]</a>
@@ -69,13 +73,7 @@ Keiichiro Yamamura, Toru Mitsutake, Hiroki Ishikura, Daiki Kusuhara, Akihiro Yos
 ZIB-Report-21-16, 2020 <a href="https://www.sciencedirect.com/science/article/pii/S2405896318324996" style="text-decoration:none">[paper]</a>
 
 ## Experience
-- 2025.4 - Current : Researcher at Institute of Science Tokyo
-- 2024.9 - 2025.2 : Research assistant at Institute of Science Tokyo
-- 2024.6 - 2024.7 : Super research assistant at Kyushu University
-- 2021.7 - 2024.6 : Machine learning engineer and full-stack engineer at Neural Group Inc.
-- 2020.10 - 2021.6: Research internship at Yahoo Japan Corp.
-- 2020.8 - 2021.6 : Super research assistant at Kyushu University
-- 2020.4 - 2020.7 : Part-time researcher at Kyushu University
+For details, see <a href="https://www.linkedin.com/in/aki916genyo/" style="text-decoration:none">my LinkedIn profile</a>.
 
 ## Education
 - 2025.3 : Ph.D. (Functional Mathematics); Graduate School of Mathematics, Kyushu University
@@ -83,6 +81,7 @@ ZIB-Report-21-16, 2020 <a href="https://www.sciencedirect.com/science/article/pi
 - 2018.3 : Bachelor (Science); School of Science, Kyushu University
 
 ## Awards
+- Gold Reviewer of ICML 2026
 - Top Reviewer of NeurIPS 2025
 - 九州大学学生表彰（学術研究活動表彰）, 令和元年度春季学位記授与式, 九州大学, 2020/3/23
 - ベストポスター賞, "Practical End-to-End Repositioning Algorithm for Managing Bike-Sharing Service", 日本数学会　異分野・異業種研究交流会2019, 東京大学駒場キャンパス, 2019/10/26
