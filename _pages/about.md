@@ -109,7 +109,7 @@ For details, see <a href="https://www.linkedin.com/in/aki916genyo/" style="text-
 - <b>Webアクセスデータを用いた潜在的ユーザクラスタリングによるWebサイトの評価指標の提案</b>, ものづくり企業に役立つ応用数理手法の研究会 第23回技術セミナー, JR博多シティ, 2018年
 
 ## Academic service
-- reviewer : AISTATS2025, NeurIPS2024-2025, Information Sciences
+- reviewer : ICML 2026, NeurIPS 2024-2025, AISTATS 2025-2026, ECMLPKDD 2025-2026, Information Sciences
 
 ## Media
 - <b>ECS, Lambda を組合せた類似商品検索及びリアルタイム在庫検索システムのご紹介</b>, アップデート紹介とちょっぴり DiveDeep する AWS の時間 第二十三回, 2022/11/9<a href="https://aws.amazon.com/jp/blogs/news/update-divedeep-series-23/" style="text-decoration:none"> [link]</a>
