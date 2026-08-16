@@ -20,7 +20,7 @@ Recently, he has been working on mixed-precision quantization for large language
 ## Publication
 
 ### Journal
-- <b>Integrating learning-based and TSP solvers for the cylinder replacement problem</b>, <br>Akihiro Yoshida, Nozomi Hata, Keiichiro Yamamura, Hiroki Ishikura & Katsuki Fujisawa <br> Japan Journal of Industrial and Applied Mathematics, 2026 <a href="https://link.springer.com/article/10.1007/s13160-026-00796-9">[paper]</a><br> 
+- <b>Integrating learning-based and TSP solvers for the cylinder replacement problem</b>, <br><u>Akihiro Yoshida</u>, Nozomi Hata, Keiichiro Yamamura, Hiroki Ishikura & Katsuki Fujisawa <br> Japan Journal of Industrial and Applied Mathematics, 2026 <a href="https://link.springer.com/article/10.1007/s13160-026-00796-9">[paper]</a><br> 
 - <b>Automated Tabu Tenure Tuning by Trajectory Metrics for Quadratic Unconstrained Binary Optimization </b>,<br>Masahiko Sugimura, Keiichiro Yamamura, Hiroki Ishikura, <u>Akihiro Yoshida</u>, Ken Kawano, Matthieu Parizy, Katsuki Fujisawa <br>Journal of Heuristics, 2026 <a href="https://link.springer.com/article/10.1007/s10732-025-09576-z" style="text-decoration:none">[paper]</a><br> 
 - <b>Optimization of transporting time through load shuffling in automated storage and retrieval system and evaluation via demonstration experiments</b>,<br>Hiroki Ishikura, Makoto Tsukamoto, Shingo Egi, Keiichiro Yamamura, Yoshihiko Fujisawa, <u>Akihiro Yoshida</u>, Hiroyuki Koshiro and Katsuki Fujisawa <br>Japan Journal of Industrial and Applied Mathematics, 2025 <a href="https://link.springer.com/article/10.1007/s13160-025-00701-w" style="text-decoration:none">[paper]</a><br> 
 - <b>Comprehensive and practical optimal delivery planning system for replacing liquefied petroleum gas cylinders</b>,<br><u>Akihiro Yoshida</u>, Haruki Sato, Shiori Uchiumi, Nariaki Tateiwa, Daisuke Kataoka, Akira Tanaka, Nozomi Hata, Yousuke Yatsushiro, Ayano Ide, Hiroki Ishikura, Shingo Egi, Miyu Fuji, Hiroki Kai and Katsuki Fujisawa <br>Japan Journal of Industrial and Applied Mathematics, 2024 <a href="https://link.springer.com/article/10.1007/s13160-024-00664-4" style="text-decoration:none">[paper]</a><br> 
@@ -42,23 +42,23 @@ Ken Kawano, Keiichiro Yamamura, <u>Akihiro Yoshida</u>, Hiroki Ishikura, Shinjir
 Artificial Intelligence with Biased or Scarce Data (AIBSD), In Conjunction with the 40th AAAI Conference on Artificial Intelligence 2026, 2026
 - <b> CMAP-LAP: Configurable Massively Parallel Solver for Lattice Problems</b>,
 <br>
-Nariaki Tateiwa, Yuji Shinano, Keiichiro Yamamura, Akihiro Yoshida, Shizuo Kaji, Masaya Yasuda, and Katsuki Fujisawa
+Nariaki Tateiwa, Yuji Shinano, Keiichiro Yamamura, <u>Akihiro Yoshida</u>, Shizuo Kaji, Masaya Yasuda, and Katsuki Fujisawa
 <br>
 IEEE 28th International Conference on High Performance Computing, Data, and Analytics (HiPC), 2021 <a href="https://ieeexplore.ieee.org/document/9680420" style="text-decoration:none">[paper]</a>
 - <b>Massive Parallelization for Finding Shortest Lattice Vectors Based on Ubiquity Generator Framework</b>
 <br>
-Nariaki Tateiwa, Yuji Shinano, Satoshi Nakamura, Akihiro Yoshida, Shizuo Kaji, Masaya Yasuda, Katsuki Fujisawa
+Nariaki Tateiwa, Yuji Shinano, Satoshi Nakamura, <u>Akihiro Yoshida</u>, Shizuo Kaji, Masaya Yasuda, Katsuki Fujisawa
 <br>
 the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC20), 2020 <a href="https://ieeexplore.ieee.org/document/9355284" style="text-decoration:none">[paper]</a>
 - <b>Nested Subspace Arrangement for Representation of Relational Data</b>
 <br>
-Nozomi Hata, Shizuo Kaji, Akihiro Yoshida, Katsuki Fujisawa<br>
+Nozomi Hata, Shizuo Kaji, <u>Akihiro Yoshida</u>, Katsuki Fujisawa<br>
 Thirty-seventh International Conference on Machine Learning (ICML2020), 2020 <a href="https://proceedings.mlr.press/v119/hata20a.html" style="text-decoration:none">[paper]</a>
 - <b>Practical End-to-End Repositioning Algorithm for Managing Bike-Sharing System</b><br>
-Akihiro Yoshida, Yosuke Yatsushiro, Nozomi Hata, Tatsuru Higurashi, Nariaki Tateiwa, Takashi Wakamatsu, Akira Tanaka, Kenishi Nagamatsu, Katsuki Fujisawa<br>
+<u>Akihiro Yoshida</u>, Yosuke Yatsushiro, Nozomi Hata, Tatsuru Higurashi, Nariaki Tateiwa, Takashi Wakamatsu, Akira Tanaka, Kenishi Nagamatsu, Katsuki Fujisawa<br>
 IEEE International Conference on Big Data 2019, 2019 <a href="https://ieeexplore.ieee.org/abstract/document/9005986" style="text-decoration:none">[paper]</a>
 - <b>Mobility Optimization on Cyber Physical System via Multiple Object Tracking and Mathematical Programming</b><br>
-Nozomi Hata, Takashi Nakayama, Akira Tanaka, Takashi Wakamatsu, Akihiro Yoshida, Nariaki Tateiwa, Yuri Nishikawa, Jun Ozawa, and Katsuki Fujisawa.<br>
+Nozomi Hata, Takashi Nakayama, Akira Tanaka, Takashi Wakamatsu, <u>Akihiro Yoshida</u>, Nariaki Tateiwa, Yuri Nishikawa, Jun Ozawa, and Katsuki Fujisawa.<br>
 the Fifth International Workshop on High Performance Big Graph Data Management, Analysis, and Mining (BigGraphs 2018), 2018 <a href="https://ieeexplore.ieee.org/document/8622146" style="text-decoration:none">[paper]</a>
 - <b> Hybrid Vehicle Control and Optimization with a New Mathematical Method</b><br>
 Nariaki Tateiwa, Nozomi Hata, Akira Tanaka, Akihiro Yoshida, Takashi Wakamatsu, Takashi Nakayama, Katsuki Fujisawa<br>
@@ -67,9 +67,9 @@ The 5th IFAC Conference on Engine and Powertrain Control, Simulation and Modelin
 ## Preprint
 - <b>OneComp: One-Line Revolution for Generative AI Model Compression</b><br>Yuma Ichikawa, Keiji Kimura, <u>Akihiro Yoshida</u>, Yudai Fujimoto, Hiroki Tokura, Yamato Arai, Yoshiyuki Ishii, Yusei Kawakami, Genki Shikada, Achille Jacquemond, Yoshihiko Fujisawa, Katsuki Fujisawa, Takumi Honda, Akira Sakai<br>2026<a href="https://arxiv.org/abs/2603.28845" style="text-decoration:none">[paper]</a>
 - <b>Enhancing Quantum-ready QUBO-based Suppression for Object Detection with Appearance and Confidence Features</b><br>
-Keiichiro Yamamura, Toru Mitsutake, Hiroki Ishikura, Daiki Kusuhara, Akihiro Yoshida, Katsuki Fujisawa<br>2025
+Keiichiro Yamamura, Toru Mitsutake, Hiroki Ishikura, Daiki Kusuhara, <u>Akihiro Yoshida</u>, Katsuki Fujisawa<br>2025
 <a href="https://arxiv.org/abs/2502.02895" style="text-decoration:none">[paper]</a>
-- <b>CMAP-LAP: Configurable Massively Parallel Solver for Lattice Problems</b><br>Nariaki Tateiwa, Yuji Shinano, Keiichiro Yamamura, Akihiro Yoshida, Shizuo Kaji, Masaya Yasuda, Katsuki Fujisawa<br>
+- <b>CMAP-LAP: Configurable Massively Parallel Solver for Lattice Problems</b><br>Nariaki Tateiwa, Yuji Shinano, Keiichiro Yamamura, <u>Akihiro Yoshida</u>, Shizuo Kaji, Masaya Yasuda, Katsuki Fujisawa<br>
 ZIB-Report-21-16, 2020 <a href="https://www.sciencedirect.com/science/article/pii/S2405896318324996" style="text-decoration:none">[paper]</a>
 
 ## Experience
